@@ -2,4 +2,4 @@
 
 ex:
 
-curl -i -X GET https://ktk2mm4pinz5dm.apigateway.us-ashburn-1.oci.customer-oci.com/v1/func1 -d '{"senderAddress" : "sender@yourdomain.com", "senderName" : "OCI Fn/APIGW", "recipientAddress" : "recipient@therdomain.com", "emailSubject" : "TestMail from OCI Fn/APIGW"}'
+# curl -i -X GET https://ktk2mm4pinz5dm.apigateway.us-ashburn-1.oci.customer-oci.com/v1/func1 -d '{"senderAddress" : "sender@yourdomain.com", "senderName" : "OCI Fn/APIGW", "recipientAddress" : "recipient@therdomain.com", "emailSubject" : "TestMail from OCI Fn/APIGW"}'
