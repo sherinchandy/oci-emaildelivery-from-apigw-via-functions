@@ -1,0 +1,1 @@
+# oci-emaildelivery-from-apigw-via-functions
