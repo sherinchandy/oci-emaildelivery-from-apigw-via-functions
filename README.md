@@ -1,4 +1,4 @@
-# Send instant e-mail from any Apps using REST API endpoint deployed using OCI API Gateway, Functions and Email Delivery.
+# Send instant e-mail using REST API endpoint deployed using OCI API Gateway, Functions and Email Delivery.
 
 ex:
 
